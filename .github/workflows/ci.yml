@@ -9,8 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    container:
-      image: node:20 
+    
+       
 
     steps:
       - uses: actions/checkout@v3
